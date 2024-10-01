@@ -17,7 +17,13 @@ class Program
         ConsoleColor.Blue,
         ConsoleColor.DarkBlue,
         ConsoleColor.Magenta,
-        ConsoleColor.DarkMagenta,        
+        ConsoleColor.DarkMagenta,
+        ConsoleColor.Yellow,
+        ConsoleColor.DarkYellow,
+        ConsoleColor.Red,
+        ConsoleColor.DarkRed,
+        ConsoleColor.Green,
+        ConsoleColor.DarkGreen,
         ConsoleColor.DarkGray,        
     };
 
